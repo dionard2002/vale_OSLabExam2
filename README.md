@@ -12,8 +12,6 @@ Algorithm.
 - Text-based Gantt Chart for both scheduling algorithms
 - Average Waiting Time and Average Turnaround Time calculation
 
-<!-- screenshot: menu -->
-
 ## Requirements
 
 - Python 3.7 or later (no external libraries required)
@@ -42,24 +40,24 @@ Algorithm.
 
 ### Input
 
-
+![Input](FCFS_Input.png)
 
 ### Output
 
-
+![Output](FCFS_Output.png)
 
 ## Sample Run 2: Round Robin
 
 ### Input
 
-
+![Input](RR_Input.png)
 
 ### Output
 
-
+![Output](RR_Input.png)
 
 ## Sample Run 3: Banker's Algorithm
 
 ### Output
 
-
+![Output](Banker_Output.png)
